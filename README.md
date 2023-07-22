@@ -1,4 +1,3 @@
-# Hospitalization-days-prediction
 Prevention of unnecessary hospitalization and prediction of days the patient is required to be hospitalized.
 <h1 align="center"> Hospitalization-days-prediction</h1>
 
@@ -8,7 +7,7 @@ Prevention of unnecessary hospitalization and prediction of days the patient is 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-## :Motivation
+## Motivation
 Amid the time of recession and increase in healthcare expenses after the pandemic, it has become of utmost importance to cut down expenditure on healthcare as well as minimizing the number of hospitalizations. This would not only promote less crowding in hospitals, bearing in mind precautionary measures in lieu of the pandemic, but also minimize the expenditure of people and government on healthcare.
 
 ## :warning: Framework used
